@@ -1,11 +1,10 @@
 ![Ashutosh Dinesh](data/Neuralnet.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Dinesh</h1>
 <h3 align="center">MSc Computer Science student at Technische Universität Kaiserslautern, Germany</h3>
-<img align="right" alt = "Coding" width = "400" src="data/giphy.gif">
 
 <br>
-<br>
-<br>
+<img align="right" alt = "Coding" width = "400" src="data/giphy.gif">
+
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and Computer Vision**
 
@@ -15,9 +14,12 @@
 
 - 📫 How to reach me : **ashutosh.dinesh@gmail.com**
 
-<br>
-<br>
-<br>
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="https://www.linkedin.com/in/ashutoshdinesh/" target="blank"><img align="center" src="data/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshdinesh/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashutoshd007/" target="blank"><img align="center" src="data/facebook.svg" alt="https://www.facebook.com/ashutoshd007/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutoshd1996/" target="blank"><img align="center" src="data/instagram.svg" alt="https://www.instagram.com/ashutoshd1996/" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -42,9 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshd1996&" alt="ashutoshd1996" /></p>
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://www.linkedin.com/in/ashutoshdinesh/" target="blank"><img align="center" src="data/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshdinesh/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ashutoshd007/" target="blank"><img align="center" src="data/facebook.svg" alt="https://www.facebook.com/ashutoshd007/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashutoshd1996/" target="blank"><img align="center" src="data/instagram.svg" alt="https://www.instagram.com/ashutoshd1996/" height="30" width="40" /></a>
-</p>
+
