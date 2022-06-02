@@ -44,7 +44,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutoshdinesh/" target="blank"><img align="center" src="data/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshdinesh/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ashutoshd007/" target="blank"><img align="center" src="data/facebook.svg" alt="https://www.facebook.com/ashutoshd007/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ashutoshd1996/" target="blank"><img align="center" src="data/instagram.svg" alt="https://www.instagram.com/ashutoshd1996/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutoshdinesh/" target="blank"><img align="center" src="data/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshdinesh/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ashutoshd007/" target="blank"><img align="center" src="data/facebook.svg" alt="https://www.facebook.com/ashutoshd007/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutoshd1996/" target="blank"><img align="center" src="data/instagram.svg" alt="https://www.instagram.com/ashutoshd1996/" height="30" width="40" /></a>
 </p>
