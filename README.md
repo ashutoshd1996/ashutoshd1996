@@ -1,6 +1,6 @@
 ![Ashutosh Dinesh](data/Neuralnet.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Dinesh</h1>
-<h3 align="center">MSc Computer Science student at Technische Universität Kaiserslautern, Germany</h3>
+<h3 align="center">MSc Computer Science student at Rheinland-Pfälzische Technische Universität Kaiserslautern, Germany</h3>
 
 <br>
 <img align="right" alt = "Coding" width = "400" src="data/giphy.gif">
