@@ -3,7 +3,7 @@
 <h3 align="center">MSc Computer Science student at Rheinland-Pfälzische Technische Universität Kaiserslautern, Germany</h3>
 
 <br>
-<img align="right" alt = "Coding" width = "400" src="data/giphy.gif">
+<img align="right" alt = "Coding" width = "350" src="data/giphy.gif">
 
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and Computer Vision**
