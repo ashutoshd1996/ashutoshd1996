@@ -1,18 +1,18 @@
 ![Ashutosh Dinesh](data/Neuralnet.gif)
 <h1 align="center">Hi 👋, I'm Ashutosh Dinesh</h1>
-<h3 align="center">MSc Computer Science student at Rheinland-Pfälzische Technische Universität Kaiserslautern, Germany</h3>
+<h3 align="center">MSc Computer Science graudate from Rheinland-Pfälzische Technische Universität Kaiserslautern, Germany</h3>
 
 <br>
 <img align="right" alt = "Coding" width = "350" src="data/giphy.gif">
 
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning and Computer Vision**
+- 🔭 I’m currently working on ** Generative AI and Computer Vision**
 
 - 🌱 Learning anything I can get my hands on 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashutoshd1996?tab=repositories](https://github.com/ashutoshd1996?tab=repositories)
 
-- 📫 How to reach me : **ashutosh.dinesh@gmail.com**
+- 📫 How to reach me: **ashutosh.dinesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
