@@ -6,7 +6,7 @@
 <img align="right" alt = "Coding" width = "350" src="data/giphy.gif">
 
 
-- 🔭 I’m currently working on ** Generative AI and Computer Vision**
+- 🔭 I’m currently working on **Generative AI and Computer Vision**
 
 - 🌱 Learning anything I can get my hands on 
 
